@@ -1,4 +1,5 @@
-# README
+# InfecTech
+For the next pandemic
 
 This is your private repository for working on the challenges in the Wellcome Data Science Ideathon.
 This repository is maintained and monitored by Wellcome staff and will be made public after July 13 2023.
