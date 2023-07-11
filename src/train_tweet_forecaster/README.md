@@ -34,7 +34,8 @@ the decoder. During prediction, the previous prediction is used as input.
 This model needs to be validated on an appropriate dataset for policy making.
 The architecture does not require tweet aggregation by date and could be
 extended to work with individual tweets and/or social network data if available
-or useful.
+or useful. This training loop can somewhat trivially be adapted to use more
+state of the art transformers.
 
 ## WIP
 
